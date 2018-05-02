@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/ethan1saacson/palindrome/issues"
   },
-  "homepage": "https://github.com/ethan1saacson/palindrome#readme"
+  "homepage": "https://github.com/ethan1saacson/palindrome#readme",
+  "dependencies": {
+    "mhartl-palindrome": "^0.2.1"
+  }
 }
